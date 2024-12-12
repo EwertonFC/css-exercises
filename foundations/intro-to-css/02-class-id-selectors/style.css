@@ -1,0 +1,20 @@
+p {
+    background-color: #f7d5db;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1 {
+    color: #2828db;
+    font-size: 36px;
+}
+
+.fonte-maior {
+    font-size: 32px;
+}
+
+#div2 {
+    background-color: rgb(150, 245, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
+
