@@ -10,6 +10,25 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 130px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  text-align: center;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.opcao1, .opcao2, 
+.opcao3, .opcao4 {
+  width: 200px;
 }
 
 /* do not edit this footer */
@@ -24,3 +43,4 @@ img {
   justify-content: center;
   background: #eee;
 }
+
